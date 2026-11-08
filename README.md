@@ -1,6 +1,6 @@
 # Secure Life General Hospital an Excel Based Healthcare Analytics
-
-## Project Overview
+## Project Introduction
+![](Introductory_Image.png)
 This project focuses on analyzing hospital patient records using Microsoft Excel to uncover meaningful insights into patient demographics, hospital admissions, departmental performance, length of hospital stays, insurance coverage, and payment patterns.
 The project demonstrates how Excel can be used to transform raw healthcare data into meaningful insights through data cleaning, calculated columns, Pivot Tables, data visualization, and interactive dashboard development.
 
@@ -48,20 +48,9 @@ The following steps were undertaken:
 2. **Data Preparation:** Organized the dataset and prepared additional calculated fields for analysis.
 3. **Calculated Columns:** Created Age Category, Length of Stay, and Amount Paid to support further analysis.
 4. **Pivot Table Analysis:** Used Pivot Tables to summarize patient records and investigate trends across different categories.
-5. **Data Visualization:** Developed charts to communicate key findings.
-6. **Dashboard Development:** Consolidated key performance indicators (KPIs) and visualizations into an Excel dashboard.
-
-## Key Performance Indicators (KPIs)
-
-The analysis produced the following metrics:
-
-| KPI | Result |
-|---|---:|
-| Total Patient Records | 1,000 |
-| Total Hospital Bills | 8,053,143.44 |
-| Average Length of Stay | 4.81 days |
-| Average Insurance Coverage | 74.86% |
-| Total Amount Paid | 5,269,442.16 |
+5. **Data Visualization:** 
+ Consolidated key performance indicators (KPIs) and visualizations into an Excel dashboard.
+![](Dashboard_image.png)
 
 ## Key Findings & Insights
 
@@ -109,8 +98,8 @@ The Excel dashboard presents key hospital performance indicators and visualizati
 - Admission trends
 
 ## Project Deliverables
-
-- `Hospital_Patients_Dataset.xlsx` – Excel workbook containing the dataset, Pivot Tables, and dashboard.
+![](Hospital_Patients_Dataset.xlsx)
+- Excel workbook containing the dataset, Pivot Tables, and dashboard.
 - Dashboard visual – A visual representation of the completed Excel dashboard.
 
 ## Skills Demonstrated
